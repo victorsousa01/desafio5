@@ -1,0 +1,22 @@
+Requirements:
+
+Put folder project in your desktop
+
+Need to download and install python 3 in your computer, you can download it in link below
+in install window python, enable to add python to variables environment
+https://www.python.org/downloads/
+
+
+Need to install selenium module, from this use the pip command below
+pip install selenium
+
+In python code insert your email on line 23, password on line 26 and username on line 32 from facebook
+
+
+This code run with selenium geckodriver from firefox
+you can download this driver in link below, after download, unzip, copy and paste in yous hard drive C:
+https://github.com/mozilla/geckodriver/releases
+
+
+in command prompt (cmd) use command below to execute script:
+python C:\Users\%username%\Desktop\facebookTest\facebookTest.py
